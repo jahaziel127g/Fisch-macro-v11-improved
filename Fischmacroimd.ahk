@@ -175,7 +175,7 @@ Tooltip(Num, Text) {
     Tooltip, %Text%, %TooltipX%, % (TooltipYBase + Num*20)
 }
 
-Tooltip(1, "Made By AsphaltCake")
+Tooltip(1, "Made By jaha127g")
 Tooltip(2, "Runtime: 0h 0m 0s")
 Tooltip(4, "Press 'P' to Start")
 Tooltip(5, "Press 'O' to Reload")
