@@ -107,7 +107,7 @@ if WinActive("Roblox")
 }
 else
 {
-    MsgBox, where roblox bruh
+    MsgBox, where roblox bro open roblox
     ExitApp
 }
 
